@@ -9,7 +9,7 @@
 
 - 📫 | **Reach me on Discord: ! A V I X I T Y#0999**
 
-- ⚡ | **Fun fact: **I love purple color , most projects have that**
+- ⚡ | **Fun fact: I love purple color , most projects have that**
 
 - 🎵 | **If you stalk you can see what i'm listening to rn :D**
 
