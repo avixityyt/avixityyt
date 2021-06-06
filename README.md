@@ -1,17 +1,16 @@
 <h1 align="center">👋 | Hi , I'm A V I X I T Y</h1>
-<h3 align="center">Just A General Developer</h3>
+<h3 align="center">Just A Self-Thought Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avixityyt" alt="karelkryda" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=avixityyt" alt="avixityyt" /> </p>
 
-- 🔭 | **I’m currently working on many things so join Discord to view them all**
+- 🔭 | **Currently re-doing one of my Discord bots called AviRecords**
 
-- 🌱 | **I’m currently learning many langs and tools**
+- 🌱 | **Learning many new things along the way**
 
 - 📫 | **Reach me on Discord: ! A V I X I T Y#0999**
 
-- ⚡ | **Fun fact: I love purple color , most projects have that**
+- ⚡ | **Fun fact: Pretty much everything is purple , projects , logos etc , just love it :)**
 
-- 🎵 | **If you stalk you can see what i'm listening to rn :D**
+- 🎵 | **I listen to trap metal , artists like: scarlxrd , bvdlvd , tokenhiphop , JuiceWRLD and other dope artists**
 
-[<img src="https://readme-spotify-status-orpin.vercel.app/api/run-spotify-status" alt="Your alt what" width="350" />](https://open.spotify.com/user/avix)
 
