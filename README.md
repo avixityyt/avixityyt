@@ -1,5 +1,5 @@
 <h1 align="center">👋 | Hi , I'm A V I X I T Y</h1>
-<h3 align="center">Just A Self-Thought Developer</h3>
+<h3 align="center">Just A Self-Tought Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avixityyt" alt="avixityyt" /> </p>
 
