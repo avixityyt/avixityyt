@@ -1,16 +1,37 @@
-<h1 align="center">👋 | Hi , I'm A V I X I T Y</h1>
-<h3 align="center">Just A Self-Tought Developer</h3>
+✨**About Me**
+<br />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avixityyt" alt="avixityyt" /> </p>
+- I'm from Eu/Latvia
+- I script in JavaScript , GO , Python , TypeScript and few others.
+- I’m looking forward to collaborate on interesting Projects / do commisions
+- I create dark styled artwork
+- I'm 19
+- I like black , white , purplish , gray and blue colors
+- I own [ScarlexDev](https://github.com/ScarlexDev)
 
-- 🔭 | **Currently making alot projects , can't even finish one**
 
-- 🌱 | **Learning many new things along the way**
+<br/>
 
-- 📫 | **Reach me on Discord: ! A V I X I T Y#0999**
+---
 
-- ⚡ | **Fun fact: i love purple-ish colors too much , after black & white.**
+### 🏆 | GitHub Profile:
+<a href="nonce">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=avixityyt&column=8&theme=discord&no-frame=true&no-bg=true"/>
+</a>
 
-- 🎵 | **I listen to trap metal , artists like: scarlxrd , bvdlvd , tokenhiphop , JuiceWRLD and other dope artists**
+---
 
+### 📊 | GitHub Stats:
+<a href="/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=avixityyt&theme=github_dark&show_icons=true&count_private=true" />
+</a>
+<a href="/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avixityyt&layout=compact" />
+</a>
+
+---
+
+### 🔥Active Projects
+
+> view all projects that i bother working on here: @ScarlexDev
 
