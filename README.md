@@ -1,4 +1,5 @@
-✨**About Me**
+# ✨ | **About Me**
+![](https://komarev.com/ghpvc/?username=avixityyt)
 <br />
 
 - I'm from Eu/Latvia
