@@ -3,8 +3,8 @@
 <br />
 
 - I'm from Eu/Latvia
-- I script in JavaScript , GO , Python , TypeScript and few others.
-- I’m looking forward to collaborate on interesting Projects / do commisions
+- I dev in JavaScript , GO , Python , TypeScript and few others.
+- I’m looking forward to collaborate on interesting projects / do commisions
 - I create dark styled artwork
 - I'm 19
 - I like black , white , purplish , gray and blue colors
@@ -24,7 +24,7 @@
 
 ### 📊 | GitHub Stats:
 <a href="/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=avixityyt&theme=github_dark&show_icons=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=avixityyt&theme=github_purple&show_icons=true&count_private=true" />
 </a>
 <a href="/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avixityyt&layout=compact" />
