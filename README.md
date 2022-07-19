@@ -13,12 +13,6 @@
 
 <br/>
 
-### SPotify
-<iframe src="https://carrd.space/cards/459025800633647116/spotify " title="scarlex">
-</iframe>
-
----
-
 ### 🏆 | GitHub Profile:
 <a href="nonce">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=avixityyt&column=8&theme=discord&no-frame=true&no-bg=true"/>
@@ -39,4 +33,6 @@
 ### 🔥Active Projects
 
 > view all projects that i bother working on here: @ScarlexDev
+
+
 
