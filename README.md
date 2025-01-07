@@ -2,14 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=avixityyt)
 <br />
 
-- I'm from Eu/Latvia
-- I dev in JavaScript , GO , Python , TypeScript and few others.
-- I’m looking forward to collaborate on interesting projects / do commisions
-- I create dark styled artwork
-- I'm 19
-- I like black , white , purplish , gray and blue colors
-- I own [ScarlexDev](https://github.com/ScarlexDev)
-
+I have a wire knowladge of tech stack and created all types of projects, and made my hobby to something i can get paid for, which i enjoy and look forward as life goes on.
 
 <br/>
 
@@ -32,7 +25,7 @@
 
 ### 🔥Active Projects
 
-> view all projects that i bother working on here: @ScarlexDev
+> lazy to list
 
 
 
