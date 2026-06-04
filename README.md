@@ -1,31 +1,25 @@
-# ✨ | **About Me**
-![](https://komarev.com/ghpvc/?username=avixityyt)
-<br />
+# About Me
 
-I have a wire knowladge of tech stack and created all types of projects, and made my hobby to something i can get paid for, which i enjoy and look forward as life goes on.
+![Profile views](https://komarev.com/ghpvc/?username=avixityyt&label=Profile%20views&color=0e75b6&style=flat)
 
-<br/>
+I build practical projects around web, tools, and product ideas, and I like turning experiments into something polished and usable.
 
-### 🏆 | GitHub Profile:
-<a href="nonce">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=avixityyt&column=8&theme=discord&no-frame=true&no-bg=true"/>
-</a>
+## Website
 
----
+- https://dzintarsit.lv/
 
-### 📊 | GitHub Stats:
-<a href="/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=avixityyt&theme=github_purple&show_icons=true&count_private=true" />
-</a>
-<a href="/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avixityyt&layout=compact" />
-</a>
+## GitHub Profile
 
----
+![Trophies](https://github-profile-trophy.vercel.app/?username=avixityyt&column=4&theme=discord&no-frame=true&no-bg=true)
 
-### 🔥Active Projects
+## GitHub Stats
 
-> lazy to list
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=avixityyt&theme=github_dark&show_icons=true&count_private=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avixityyt&layout=compact&theme=github_dark)
 
+## Active Projects
 
+- [Clicky](https://github.com/avixityyt/Clicky)
+- [HapticDocs](https://github.com/avixityyt/HapticDocs)
+- [VSCHaptic-Plugin](https://github.com/avixityyt/VSCHaptic-Plugin)
