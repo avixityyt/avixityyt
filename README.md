@@ -1,5 +1,3 @@
-# Dzintars
-
 Focused on web products, tools, and polished side projects.
 
 [Website](https://dzintarsit.lv/) • [Discord](https://discord.com/users/459025800633647116)
@@ -10,12 +8,12 @@ Focused on web products, tools, and polished side projects.
 
 Building all types of projects: web, software, plugins, extensions, and gradually more around game development and other things worth exploring.
 
-- ?? Fulltime @ [devera.lv](https://devera.lv/)
-- ?? Concentrating to push more public open source 
-- ?? Fulltime watcher of Linus Tech Tips & More
-- ?? Learn more about my projects on my [website](https://dzintarsit.lv/)
-- ?? Ask me anything on my [issues page](https://github.com/avixityyt/avixityyt/issues)
-- ?? Connect with me on [LinkedIn](https://www.linkedin.com/in/dzintarsdev)
+- Fulltime @ [devera.lv](https://devera.lv/)
+- Concentrating to push more public open source
+- Fulltime watcher of Linus Tech Tips & More
+- Learn more about my projects on my [website](https://dzintarsit.lv/)
+- Ask me anything on my [issues page](https://github.com/avixityyt/avixityyt/issues)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/dzintarsdev)
 
 ## GitHub Activity
 
