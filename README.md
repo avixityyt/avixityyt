@@ -37,6 +37,8 @@ Building all types of projects: web, software, plugins, extensions, and graduall
 - [VSCHaptic-Plugin](https://github.com/avixityyt/VSCHaptic-Plugin)  
   Haptics-focused plugin work and experiments.
 
+- [SteerCast](https://github.com/avixityyt/SteerCast)  
+  Logitech G-series steering wheel OBS Web Source overlay for it's inputs.
 ## Contact
 
 [![Website](https://img.shields.io/badge/Website-dzintarsit.lv-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dzintarsit.lv/)
